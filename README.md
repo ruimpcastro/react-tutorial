@@ -8,3 +8,6 @@ https://github.com/facebook/create-react-app
 ## Bug: Passing a method reference between components
 https://stackoverflow.com/questions/52873894/react-passing-a-method-reference-between-components
 https://www.geekstrick.com/lesson/passing-method-references-between-components/
+
+## Lists and Keys
+https://reactjs.org/docs/lists-and-keys.html
