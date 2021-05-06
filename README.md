@@ -14,3 +14,6 @@ https://reactjs.org/docs/lists-and-keys.html
 
 ## Conditional Rendering
 https://reactjs.org/docs/conditional-rendering.html
+
+## Styled-Components
+https://styled-components.com/docs/basics
