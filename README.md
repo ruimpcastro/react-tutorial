@@ -11,3 +11,6 @@ https://www.geekstrick.com/lesson/passing-method-references-between-components/
 
 ## Lists and Keys
 https://reactjs.org/docs/lists-and-keys.html
+
+## Conditional Rendering
+https://reactjs.org/docs/conditional-rendering.html
